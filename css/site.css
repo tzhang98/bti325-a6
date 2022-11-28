@@ -1,0 +1,20 @@
+
+  
+  h2{
+    background-color: rgb(116, 190, 233);
+    font-weight: bold;
+  }
+  h1 {
+    color: rgb(111, 198, 238);
+    text-align: center;
+  }
+  
+  p {
+   background-color: azure;
+  }
+
+  li{
+    align-items: center;
+    margin: 5px;
+    background-color: white;
+  }
